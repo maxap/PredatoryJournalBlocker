@@ -1,10 +1,7 @@
-# Axel Springer Blocker (ABS)
-Axel Springer Blocker is a practical browser extension for Chromium based browsers such as Google Chrome, Opera, Yandex, Vivaldi etc.
+# Predatory Journal Blocker (PJB)
+Predatory Journal Blocker is a practical browser extension for Chromium based browsers such as Google Chrome, Opera, Yandex, Vivaldi etc.
 
-## Easy installation guide for Chromium based browsers 
-The easiest way is to download this extension directly from the Chrome Web Store.  
-This version updates itself after each change.  
-[Install over Chrome Web Store](https://chrome.google.com/webstore/detail/axel-springer-blocker-asb/cbnipbdpgcncaghphljjicfgmkonflee)
+
 ## Advanced installation guide for Chromium based browsers 
 You can easily create your own version of this extension.  
 All you need is time and some understanding of browser extension development.  
@@ -19,7 +16,7 @@ Here is an example for Google Chrome:
    "default_locale": "",
    "icons": {},
    "manifest_version": 2,
-   "name": "Axel Springer Blocker (ASB)",
+   "name": "Predatory Journal Blocker (PJB)",
    "offline_enabled": false,
    "options_page": "",
    "permissions": [ "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
