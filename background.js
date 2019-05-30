@@ -6,7 +6,7 @@ chrome.webRequest.onBeforeRequest.addListener(
 		if ( a.hostname.indexOf("www.") == 0 ){
 			domain = domain.replace(/([a-zA-Z0-9]+.)/,"");
 		}
-		if ( axel.indexOf( domain ) != -1 ){
+		if ( journal.indexOf( domain ) != -1 ){
 			return {
 				redirectUrl : "chrome-extension://"+window.location.hostname+"/html/block.html"
 			};
