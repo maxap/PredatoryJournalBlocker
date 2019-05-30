@@ -14,7 +14,7 @@ This plugin utilizes the work done by revengeday/axelspringerblocker
     
 ## Chrome
    
-    Da Google Chrome romnült dass die Erweiterung nicht im Google Web Store liegt und sich deshalb weigert das ganze zu installieren dürfen wir hier einen kleinen Umweg machen - Yippie
+    Da Google Chrome rumnöllt dass die Erweiterung nicht im Google Web Store liegt und sich deshalb weigert das ganze zu installieren dürfen wir hier einen kleinen Umweg machen - Yippie
     Trivia: Ja man könnte die Erweiterung ja einfach publishen, aber Google möchte dafür 5$ von einer Kreditkarte bezahlt. Da ich weder noch habe (und keine Lust hab im Momemt die nötigen 10€/Zeit da reinzuwerfen geht's halt nur so. Wenn mir jemand die 10€ (5$ +virtuelle Kreditkarte) zukommen lässt können wir gerne darüber reden)
     
     - man lade das Repository herunter und entpacke es
@@ -25,7 +25,7 @@ This plugin utilizes the work done by revengeday/axelspringerblocker
     
     
     
-## Firefox ==
+## Firefox 
 
 Auf Firefox hatte ich noch keine Lust, da das System für Erweiterungen geändert wurde vor ner Weile (weshalb der aktuelle Quellcode nicht mehr funktioniert) und ich bisher keine Lust hatte mich da einzulesen - der Firefoxnutzeranteil schrumpft sowieso ^^
 
