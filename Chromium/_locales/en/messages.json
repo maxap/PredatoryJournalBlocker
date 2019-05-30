@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Predatory Journal Blocker",
+    "description": "Blocker for URLs of suspected predatory journals"
+  },
+  "appDesc": {
+    "message": "This artistic plugin tries to block the sites of suspected predatory journals",
+    "description": "See more at github.com/maxap/predatoryjournalblocker"
+  }
+}

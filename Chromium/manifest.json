@@ -1,0 +1,13 @@
+{
+  "background": {
+    "scripts": [ "background.js" ]
+  },
+  "default_locale": "en",
+  "icons": {},
+  "manifest_version": 2,
+  "name": "Predatory Journal Blocker (PJB)",
+  "offline_enabled": false,
+  "permissions": [ "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.0.0"
+}
