@@ -359,7 +359,6 @@ chrome.webRequest.onBeforeRequest.addListener(
             "ijaamm.com",
             "ijae.in",
             "ijaet.org",
-            "international%20journal%20of%20advances%20in%20interdisciplinary%20research%20%28ijaidr%29",
             "managementjournal.info",
             "ijamee.info",
             "adv-math.com",
@@ -476,7 +475,6 @@ chrome.webRequest.onBeforeRequest.addListener(
             "journalcmpr.com",
             "journalijcmes.com",
             "ijcmas.com",
-            "international%20journal%20of%20current%20multidisciplinary%20studies",
             "ijcpr.com",
             "journalcra.com",
             "ijcrar.com",
@@ -524,7 +522,6 @@ chrome.webRequest.onBeforeRequest.addListener(
             "ijoetr.com",
             "igmpublication.org",
             "journal-enertech.eu",
-            "international%20journal%20of%20energy%20and%20water%20resources%20%28ijewr%29",
             "ijesr.org",
             "ijeat.org",
             "eaas-journal.org",
@@ -719,7 +716,6 @@ chrome.webRequest.onBeforeRequest.addListener(
             "journalmrr.com",
             "ijmdrr.com",
             "ijmse.org",
-            "international%20journal%20of%20nanofluids%20and%20nanoparticles",
             "ijns.jalaxy.com.tw",
             "ijnst.jalaxy.com.tw",
             "ijniet.org",
@@ -863,7 +859,6 @@ chrome.webRequest.onBeforeRequest.addListener(
             "ijsre.com",
             "ijsrise.com",
             "ijss-sn.com",
-            "international%20journal%20of%20signal%20processing%20systems%20%28ijsps%29",
             "ijsas.webs.com",
             "ijsser.org",
             "ijssh.org",
@@ -1026,7 +1021,6 @@ chrome.webRequest.onBeforeRequest.addListener(
             "jexpsciences.com",
             "jfedweb.org",
             "world-food.net",
-            "journal%20of%20fundamental%20and%20applied%20sciences",
             "jgerc.com",
             "jgtte.com",
             "mutagens.co.in",
@@ -1298,7 +1292,7 @@ chrome.webRequest.onBeforeRequest.addListener(
 		domain = a.hostname;
 		if ( a.hostname.indexOf("www.") == 0 ){
 			domain = domain.replace(/([a-zA-Z0-9]+.)/,"");
-		}
+        }
 		if ( journal.indexOf( domain ) != -1 ){
 			return {
 				redirectUrl : "chrome-extension://"+window.location.hostname+"/html/block.html"
