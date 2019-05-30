@@ -7,7 +7,7 @@ This plugin utilizes the work done by revengeday/axelspringerblocker
 # Installation (german) 
 
 ## Chromium basierte Browser außer Google Chrome: 
-### Opera, Vivaldi, früher oder später Microsoft Edge, etc
+ Opera, Vivaldi, früher oder später Microsoft Edge, etc
   - Einfach auf die Seite mit Browser Erweiterungen gehen und die Chromium.crx reinziehen, dort dann entsprechend den Aufforderungen installieren - fertig
     - Die Seit der Erweiterungen findet man meist im Hauptmenu oder unter den Einstellungen
     
