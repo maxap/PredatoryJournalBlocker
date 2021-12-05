@@ -1,35 +1,38 @@
 # Predatory Journal Blocker (PJB)
-Predatory Journal Blocker is a practical browser extension for Chromium based browsers such as Google Chrome, Opera, Yandex, Vivaldi or Firefox(WIP)
+Predatory Journal Blocker is a practical browser extension for Chromium based browsers such as Google Chrome, Opera or Vivaldi.
 
 This plugin utilizes the work done by revengeday/axelspringerblocker
 
 
-# Installation (german) 
+# Installation  
 
-## Chromium basierte Browser außer Google Chrome: 
- Opera, Vivaldi, früher oder später Microsoft Edge, etc
-  - Einfach auf die Seite mit Browser Erweiterungen gehen und die Chromium.crx reinziehen, dort dann entsprechend den Aufforderungen installieren - fertig
-    - Die Seit der Erweiterungen findet man meist im Hauptmenu oder unter den Einstellungen
+## Chromium based brwosers except Google Chrome (Opera, Vivaldi, Microsoft Edge, ...)
+  - Open the site handling browser extensions (commonly found under the settings tab)
+  - drag and drop the Chromium.crx into the windows, then press accept in the pop-ups regarding extension installation
+
     
     
 ## Chrome
-   
-    Da Google Chrome rumnöllt dass die Erweiterung nicht im Google Web Store liegt und sich deshalb weigert das ganze zu installieren dürfen wir hier einen kleinen Umweg machen - Yippie
-    Trivia: Ja man könnte die Erweiterung ja einfach publishen, aber Google möchte dafür 5$ von einer Kreditkarte bezahlt. Da ich weder noch habe (und keine Lust hab im Momemt die nötigen 10€/Zeit da reinzuwerfen geht's halt nur so. Wenn mir jemand die 10€ (5$ +virtuelle Kreditkarte) zukommen lässt können wir gerne darüber reden)
-    
-    - man lade das Repository herunter und entpacke es
-    - öffne nun die Seite für ERweiterungen (zu finden unter Einstellungen oder im Menu, je nach Version)
-    - aktiviere den Entwicklermodus (oben rechts, bei meiner Version)
-    - nun auf die Schaltfläcke "entpackte ERweiterung laden" klicken
-    - den Chromium Ordner im entpackten Repository auswhälen UND fertig
+   Google Chrome requires brwoser extensions to be published in the chrome web store. To circumvent this, we will use the brwosers develeoper mode.
+   To publish this extension in the chrome web store costs money. Since I'm stingy, I didn't. If you want this extension in the app store, feel free t ocontact me
+
+   - Download the respository and extract it
+   - Open the Extesnion site
+   - active the developer mode (top right at time of writing)
+   - click "load extracted extension"
+   - select the extracted chromium folder
+   - You've fisnihed, yuheii
+
     
     
     
 ## Firefox 
 
-Auf Firefox hatte ich noch keine Lust, da das System für Erweiterungen geändert wurde vor ner Weile (weshalb der aktuelle Quellcode nicht mehr funktioniert) und ich bisher keine Lust hatte mich da einzulesen - der Firefoxnutzeranteil schrumpft sowieso ^^
+Firefox support has not been done by me and will not be done, since I don't know anything about making firefox plugins. If you know how create how to do this, or want to do it, feel free to create an issue or pull request.
 
-Wenn jemand darauf Lust haben sollte, meldet euch und macht ne Pull Request - oder [schreibt mir wie](mailto:pjb@maxap.eu)
+# Changes to the list
+
+The list of predatory journals was kindly provided by some chemistry students wo where sick of predatory journals in their research. If you would like to add an item to the list or inform me about a wrongful listing of a journal feel free to add an issue :)
 
 
     
