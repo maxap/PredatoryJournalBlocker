@@ -1,5 +1,5 @@
 # Predatory Journal Blocker (PJB)
-Predatory Journal Blocker is a practical browser extension for Chromium based browsers such as Google Chrome, Opera or Vivaldi.
+Predatory Journal Blocker is a practical browser extension for Chromium based browsers such as Google Chrome, Opera or Vivaldi. It is supposed to accidentally accessing articels of so called "predatory journals" when doing research, to maintain a high quality of source material,
 
 This plugin utilizes the work done by revengeday/axelspringerblocker
 
